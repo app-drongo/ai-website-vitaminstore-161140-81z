@@ -9,7 +9,7 @@ import { useState, useEffect } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  title: 'Premium Vitamins & Supplements',
+  title: 'Premium Vitamins & Supplementsss',
   subtitle: 'For Your Healthiest Life',
   description:
     'Discover our scientifically-backed collection of multivitamins and targeted supplements including Vitamin D, Vitamin C, and essential nutrients to support your wellness journey.',
